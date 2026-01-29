@@ -1,0 +1,1 @@
+{"overrides":[{"model":"litexpansion:materials/iridium","predicate":{"custom_model_data":2200815}},{"model":"item/white_dye","predicate":{"custom_model_data":2200816}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/white_dye"}}

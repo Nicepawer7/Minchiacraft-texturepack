@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/chicken"},"entries":[{"threshold":2203121,"model":{"type":"model","model":"gastronomicon:ingredient/gn_raw_turkey"}},{"threshold":2203122,"model":{"type":"model","model":"item/chicken"}}]},"oversized_in_gui":true}

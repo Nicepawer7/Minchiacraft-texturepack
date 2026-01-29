@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:ingredient/gn_turmeric","predicate":{"custom_model_data":2203079}},{"model":"gastronomicon:food/gn_dough","predicate":{"custom_model_data":2203127}},{"model":"item/potato","predicate":{"custom_model_data":2203128}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/potato"}}

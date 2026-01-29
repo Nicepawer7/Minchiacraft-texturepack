@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:item/barrier","predicate":{"custom_model_data":2305042}},{"model":"minecraft:item/barrier","predicate":{"custom_model_data":2305056}},{"model":"item/barrier","predicate":{"custom_model_data":2305057}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/barrier"}}

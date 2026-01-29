@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefunwarfare:resources/segganesson_meteor","predicate":{"custom_model_data":2202060}},{"model":"item/diamond_ore","predicate":{"custom_model_data":2202061}}],"parent":"minecraft:block/diamond_ore"}

@@ -1,0 +1,1 @@
+{"overrides":[{"model":"cultivation:products/clt_chicory","predicate":{"custom_model_data":2300033}},{"model":"item/blue_orchid","predicate":{"custom_model_data":2300034}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/blue_orchid"}}

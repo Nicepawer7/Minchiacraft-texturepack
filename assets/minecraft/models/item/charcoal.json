@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefunwarfare:resources/boron","predicate":{"custom_model_data":2202002}},{"model":"item/charcoal","predicate":{"custom_model_data":2202003}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/charcoal"}}

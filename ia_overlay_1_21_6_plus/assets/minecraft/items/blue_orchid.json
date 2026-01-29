@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/blue_orchid"},"entries":[{"threshold":2300033,"model":{"type":"model","model":"cultivation:products/clt_chicory"}},{"threshold":2300034,"model":{"type":"model","model":"item/blue_orchid"}}]},"oversized_in_gui":true}

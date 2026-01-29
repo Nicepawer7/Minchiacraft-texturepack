@@ -1,0 +1,1 @@
+{"overrides":[{"model":"infinityexpansion:singularities/redstone_singularity","predicate":{"custom_model_data":2200637}},{"model":"infinityexpansion2:singularities/redstone_singularity","predicate":{"custom_model_data":2305088}},{"model":"item/redstone_block","predicate":{"custom_model_data":2305089}}],"parent":"minecraft:block/redstone_block"}

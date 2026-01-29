@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:block/stripped_warped_hyphae","predicate":{"custom_model_data":2305157}},{"model":"item/stripped_warped_hyphae","predicate":{"custom_model_data":2305158}}],"parent":"minecraft:block/stripped_warped_hyphae"}

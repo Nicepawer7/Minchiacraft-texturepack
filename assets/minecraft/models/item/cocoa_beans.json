@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:ingredient/gn_red_beans","predicate":{"custom_model_data":2203081}},{"model":"item/cocoa_beans","predicate":{"custom_model_data":2203082}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/cocoa_beans"}}

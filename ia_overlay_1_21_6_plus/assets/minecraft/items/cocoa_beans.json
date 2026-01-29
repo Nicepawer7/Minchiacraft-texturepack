@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/cocoa_beans"},"entries":[{"threshold":2203081,"model":{"type":"model","model":"gastronomicon:ingredient/gn_red_beans"}},{"threshold":2203082,"model":{"type":"model","model":"item/cocoa_beans"}}]},"oversized_in_gui":true}

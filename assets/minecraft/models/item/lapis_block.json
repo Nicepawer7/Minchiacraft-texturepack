@@ -1,0 +1,1 @@
+{"overrides":[{"model":"infinityexpansion:singularities/lapis_singularity","predicate":{"custom_model_data":2200629}},{"model":"infinityexpansion2:singularities/lapis_singularity","predicate":{"custom_model_data":2305087}},{"model":"item/lapis_block","predicate":{"custom_model_data":2305088}}],"parent":"minecraft:block/lapis_block"}

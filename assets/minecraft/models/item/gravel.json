@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimetinker:materials/grout","predicate":{"custom_model_data":2301001}},{"model":"item/gravel","predicate":{"custom_model_data":2301002}}],"parent":"minecraft:block/gravel"}

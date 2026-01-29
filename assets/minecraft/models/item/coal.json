@@ -1,0 +1,1 @@
+{"overrides":[{"model":"infinityexpansion2:tools/oscillator_coal","predicate":{"custom_model_data":2305136}},{"model":"item/coal","predicate":{"custom_model_data":2305137}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/coal"}}

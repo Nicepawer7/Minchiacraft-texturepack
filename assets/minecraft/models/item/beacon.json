@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:block/beacon","predicate":{"custom_model_data":230510}},{"model":"minecraft:block/beacon","predicate":{"custom_model_data":2305205}},{"model":"minecraft:block/beacon","predicate":{"custom_model_data":2305206}},{"model":"item/beacon","predicate":{"custom_model_data":2305207}}],"parent":"minecraft:block/beacon"}

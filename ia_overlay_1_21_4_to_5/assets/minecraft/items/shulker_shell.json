@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/shulker_shell"},"entries":[{"threshold":2200544,"model":{"type":"model","model":"slimefun:slimefun/magical_items/synthetic_shulker_shell"}},{"threshold":2200545,"model":{"type":"model","model":"item/shulker_shell"}}]},"oversized_in_gui":true}

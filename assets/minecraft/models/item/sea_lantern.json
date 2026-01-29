@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:block/sea_lantern","predicate":{"custom_model_data":2305113}},{"model":"item/sea_lantern","predicate":{"custom_model_data":2305114}}],"parent":"minecraft:block/sea_lantern"}

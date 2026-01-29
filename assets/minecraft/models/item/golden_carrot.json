@@ -1,0 +1,1 @@
+{"overrides":[{"model":"exotic_garden:foods/corn_on_the_cob","predicate":{"custom_model_data":2200910}},{"model":"item/golden_carrot","predicate":{"custom_model_data":2200911}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/golden_carrot"}}

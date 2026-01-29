@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:tools/gn_baking_tray","predicate":{"custom_model_data":2203007}},{"model":"item/light_gray_carpet","predicate":{"custom_model_data":2203008}}],"parent":"minecraft:block/light_gray_carpet"}

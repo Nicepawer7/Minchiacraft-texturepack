@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:block/beehive","predicate":{"custom_model_data":230511}},{"model":"geneticchickengineering:machines/private_coop","predicate":{"custom_model_data":2300608}},{"model":"item/beehive","predicate":{"custom_model_data":2300609}}],"parent":"minecraft:block/beehive"}

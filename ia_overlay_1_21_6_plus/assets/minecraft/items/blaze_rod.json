@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/blaze_rod"},"entries":[{"threshold":2201321,"model":{"type":"model","model":"fluffymachines:misc/warp_pad_configurator"}},{"threshold":2201322,"model":{"type":"model","model":"item/blaze_rod"}}]},"oversized_in_gui":true}

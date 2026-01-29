@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:ingredient/gn_raw_turkey","predicate":{"custom_model_data":2203121}},{"model":"item/chicken","predicate":{"custom_model_data":2203122}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/chicken"}}

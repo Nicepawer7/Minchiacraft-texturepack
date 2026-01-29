@@ -1,0 +1,1 @@
+{"overrides":[{"model":"cultivation:products/clt_marjoram","predicate":{"custom_model_data":2300049}},{"model":"item/dark_oak_leaves","predicate":{"custom_model_data":2300050}}],"parent":"minecraft:block/dark_oak_leaves"}

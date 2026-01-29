@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/prismarine_shard"},"entries":[{"threshold":2203102,"model":{"type":"model","model":"gastronomicon:ingredient/gn_guardian_fin"}},{"threshold":2203103,"model":{"type":"model","model":"item/prismarine_shard"}}]},"oversized_in_gui":true}

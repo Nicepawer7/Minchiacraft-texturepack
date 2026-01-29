@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:food/gn_marmalade","predicate":{"custom_model_data":2203136}},{"model":"item/honey_bottle","predicate":{"custom_model_data":2203137}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/honey_bottle"}}

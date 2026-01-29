@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/gray_carpet"},"entries":[{"threshold":2203008,"model":{"type":"model","model":"gastronomicon:tools/gn_frying_pan"}},{"threshold":2203009,"model":{"type":"model","model":"item/gray_carpet"}}]},"oversized_in_gui":true}

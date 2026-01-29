@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:block/lodestone","predicate":{"custom_model_data":2305171}},{"model":"minecraft:block/lodestone","predicate":{"custom_model_data":2305193}},{"model":"minecraft:block/lodestone","predicate":{"custom_model_data":2305208}},{"model":"item/lodestone","predicate":{"custom_model_data":2305209}}],"parent":"minecraft:block/lodestone"}

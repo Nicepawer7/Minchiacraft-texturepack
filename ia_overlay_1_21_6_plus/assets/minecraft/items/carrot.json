@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/carrot"},"entries":[{"threshold":2203066,"model":{"type":"model","model":"gastronomicon:ingredient/gn_cassava"}},{"threshold":2203067,"model":{"type":"model","model":"item/carrot"}}]},"oversized_in_gui":true}

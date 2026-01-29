@@ -1,0 +1,1 @@
+{"display":{"head":{"rotation":[0,0,0],"scale":[0.8,0.8,0.8],"translation":[2.75,-2.75,-6.5]}},"overrides":[{"model":"slimefun:slimefun/tools/grappling_hook","predicate":{"custom_model_data":2200131}},{"model":"item/lead","predicate":{"custom_model_data":2200132}}],"parent":"item/generated","textures":{"layer0":"item/lead"}}

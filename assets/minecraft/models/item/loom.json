@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimetinker:workstations/tinkers_swapping_station","predicate":{"custom_model_data":2301174}},{"model":"minecraft:block/loom","predicate":{"custom_model_data":2305008}},{"model":"item/loom","predicate":{"custom_model_data":2305009}}],"parent":"minecraft:block/loom"}

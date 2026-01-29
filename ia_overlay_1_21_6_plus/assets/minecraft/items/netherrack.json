@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/netherrack"},"entries":[{"threshold":2305036,"model":{"type":"model","model":"infinityexpansion2:icons/ui_world_nether"}},{"threshold":2305037,"model":{"type":"model","model":"item/netherrack"}}]},"oversized_in_gui":true}

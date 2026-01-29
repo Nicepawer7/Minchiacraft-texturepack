@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:ingredient/gn_raw_eel","predicate":{"custom_model_data":2203107}},{"model":"item/salmon","predicate":{"custom_model_data":2203108}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/salmon"}}

@@ -1,0 +1,1 @@
+{"overrides":[{"model":"cultivation:products/clt_parsley","predicate":{"custom_model_data":2300052}},{"model":"item/acacia_leaves","predicate":{"custom_model_data":2300053}}],"parent":"minecraft:block/acacia_leaves"}

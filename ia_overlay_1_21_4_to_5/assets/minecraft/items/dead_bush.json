@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/dead_bush"},"entries":[{"threshold":2200822,"model":{"type":"model","model":"litexpansion:materials/scrap"}},{"threshold":2200823,"model":{"type":"model","model":"item/dead_bush"}}]},"oversized_in_gui":true}

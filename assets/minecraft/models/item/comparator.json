@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefun:slimefun/gui/_ui_menu","predicate":{"custom_model_data":2200004}},{"model":"item/comparator","predicate":{"custom_model_data":2200005}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/comparator"}}

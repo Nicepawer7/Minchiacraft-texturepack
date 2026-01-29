@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:tools/gn_frying_pan","predicate":{"custom_model_data":2203008}},{"model":"item/gray_carpet","predicate":{"custom_model_data":2203009}}],"parent":"minecraft:block/gray_carpet"}

@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/fletching_table"},"entries":[{"threshold":2301169,"model":{"type":"model","model":"slimetinker:workstations/tinkers_workbench"}},{"threshold":2301170,"model":{"type":"model","model":"item/fletching_table"}}]},"oversized_in_gui":true}

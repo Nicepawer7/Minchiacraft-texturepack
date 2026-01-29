@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/golden_axe"},"entries":[{"threshold":2201296,"model":{"type":"model","model":"fluffymachines:wrenches/fluffy_wrench"}},{"threshold":2201297,"model":{"type":"model","model":"item/golden_axe"}}]},"oversized_in_gui":true}

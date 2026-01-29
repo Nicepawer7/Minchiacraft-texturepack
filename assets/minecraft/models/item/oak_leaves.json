@@ -1,0 +1,1 @@
+{"overrides":[{"model":"cultivation:products/clt_sassafras","predicate":{"custom_model_data":2300054}},{"model":"item/oak_leaves","predicate":{"custom_model_data":2300055}}],"parent":"minecraft:block/oak_leaves"}

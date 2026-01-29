@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/glow_berries"},"entries":[{"threshold":2300044,"model":{"type":"model","model":"cultivation:products/clt_juniper_berry"}},{"threshold":2300045,"model":{"type":"model","model":"item/glow_berries"}}]},"oversized_in_gui":true}

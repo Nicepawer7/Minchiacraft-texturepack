@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefun:slimefun/cargo/reactor_access_port","predicate":{"custom_model_data":2200517}},{"model":"item/cyan_terracotta","predicate":{"custom_model_data":2200518}}],"parent":"minecraft:block/cyan_terracotta"}

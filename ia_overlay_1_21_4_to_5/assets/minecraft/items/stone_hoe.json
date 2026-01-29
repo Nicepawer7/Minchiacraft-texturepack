@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/stone_hoe"},"entries":[{"threshold":2301142,"model":{"type":"model","model":"slimetinker:tool_building_guide/tool_hoe_dummy"}},{"threshold":2301143,"model":{"type":"model","model":"item/stone_hoe"}}]},"oversized_in_gui":true}

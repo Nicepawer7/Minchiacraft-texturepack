@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:ingredient/gn_mint","predicate":{"custom_model_data":2203060}},{"model":"gastronomicon:ingredient/gn_fiddleheads","predicate":{"custom_model_data":2203093}},{"model":"item/fern","predicate":{"custom_model_data":2203094}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/fern"}}

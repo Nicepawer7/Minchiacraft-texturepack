@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/green_concrete"},"entries":[{"threshold":2305183,"model":{"type":"model","model":"minecraft:block/green_concrete"}},{"threshold":2305184,"model":{"type":"model","model":"item/green_concrete"}}]},"oversized_in_gui":true}

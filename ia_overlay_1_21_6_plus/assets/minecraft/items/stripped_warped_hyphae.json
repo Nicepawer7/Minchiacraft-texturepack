@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/stripped_warped_hyphae"},"entries":[{"threshold":2305157,"model":{"type":"model","model":"minecraft:block/stripped_warped_hyphae"}},{"threshold":2305158,"model":{"type":"model","model":"item/stripped_warped_hyphae"}}]},"oversized_in_gui":true}

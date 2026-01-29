@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefun:slimefun/magical_gadgets/rainbow_clay","predicate":{"custom_model_data":2200428}},{"model":"slimefun:slimefun/christmas/rainbow_clay_xmas","predicate":{"custom_model_data":2200434}},{"model":"item/white_terracotta","predicate":{"custom_model_data":2200435}}],"parent":"minecraft:block/white_terracotta"}

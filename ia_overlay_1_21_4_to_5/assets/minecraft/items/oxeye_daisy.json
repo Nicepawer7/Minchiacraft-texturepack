@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/oxeye_daisy"},"entries":[{"threshold":2300040,"model":{"type":"model","model":"cultivation:products/clt_fennel"}},{"threshold":2300041,"model":{"type":"model","model":"item/oxeye_daisy"}}]},"oversized_in_gui":true}

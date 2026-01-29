@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/porkchop"},"entries":[{"threshold":2203103,"model":{"type":"model","model":"gastronomicon:ingredient/gn_raw_squid"}},{"threshold":2203104,"model":{"type":"model","model":"item/porkchop"}}]},"oversized_in_gui":true}

@@ -1,0 +1,1 @@
+{"overrides":[{"model":"infinityexpansion2:icons/ui_storage_void_excess_on","predicate":{"custom_model_data":2305058}},{"model":"item/green_stained_glass_pane","predicate":{"custom_model_data":2305059}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/green_stained_glass"}}

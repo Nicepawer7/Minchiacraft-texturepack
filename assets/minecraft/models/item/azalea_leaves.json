@@ -1,0 +1,1 @@
+{"overrides":[{"model":"cultivation:products/clt_nettles","predicate":{"custom_model_data":2300077}},{"model":"item/azalea_leaves","predicate":{"custom_model_data":2300078}}],"parent":"minecraft:block/azalea_leaves"}

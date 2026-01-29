@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/dandelion"},"entries":[{"threshold":2300036,"model":{"type":"model","model":"cultivation:products/clt_cumin"}},{"threshold":2300037,"model":{"type":"model","model":"item/dandelion"}}]},"oversized_in_gui":true}

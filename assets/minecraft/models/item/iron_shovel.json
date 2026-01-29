@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:tools/gn_whisk","predicate":{"custom_model_data":2203006}},{"model":"item/iron_shovel","predicate":{"custom_model_data":2203007}}],"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/iron_shovel"}}

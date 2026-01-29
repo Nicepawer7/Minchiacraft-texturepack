@@ -1,0 +1,1 @@
+{"overrides":[{"model":"infinityexpansion2:icons/ui_world_nether","predicate":{"custom_model_data":2305036}},{"model":"item/netherrack","predicate":{"custom_model_data":2305037}}],"parent":"minecraft:block/netherrack"}

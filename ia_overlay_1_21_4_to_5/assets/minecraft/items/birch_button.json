@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/birch_button_inventory"},"entries":[{"threshold":2203142,"model":{"type":"model","model":"gastronomicon:food/gn_tofu"}},{"threshold":2203143,"model":{"type":"model","model":"item/birch_button"}}]},"oversized_in_gui":true}

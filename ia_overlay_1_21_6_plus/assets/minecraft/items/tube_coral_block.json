@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/tube_coral_block"},"entries":[{"threshold":2201559,"model":{"type":"model","model":"supreme:components/supreme_crystallizer_machine"}},{"threshold":2201560,"model":{"type":"model","model":"item/tube_coral_block"}}]},"oversized_in_gui":true}

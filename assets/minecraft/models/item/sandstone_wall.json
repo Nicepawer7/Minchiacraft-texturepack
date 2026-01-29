@@ -1,0 +1,1 @@
+{"overrides":[{"model":"infinityexpansion2:tools/strainer_base","predicate":{"custom_model_data":2305122}},{"model":"item/sandstone_wall","predicate":{"custom_model_data":2305123}}],"parent":"minecraft:block/sandstone_wall_inventory"}

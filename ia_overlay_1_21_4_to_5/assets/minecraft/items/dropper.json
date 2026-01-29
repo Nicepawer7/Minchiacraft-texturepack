@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/dropper"},"entries":[{"threshold":2200058,"model":{"type":"model","model":"slimefun:slimefun/basic_machines/ignition_chamber"}},{"threshold":2200059,"model":{"type":"model","model":"item/dropper"}}]},"oversized_in_gui":true}

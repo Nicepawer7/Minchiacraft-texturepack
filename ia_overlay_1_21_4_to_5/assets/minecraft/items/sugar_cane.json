@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/sugar_cane"},"entries":[{"threshold":2203048,"model":{"type":"model","model":"gastronomicon:ingredient/gn_celery"}},{"threshold":2203049,"model":{"type":"model","model":"item/sugar_cane"}}]},"oversized_in_gui":true}

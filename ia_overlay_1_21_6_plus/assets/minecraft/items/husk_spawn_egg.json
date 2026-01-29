@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/husk_spawn_egg"},"entries":[{"threshold":2202020,"model":{"type":"model","model":"slimefunwarfare:general/dummy"}},{"threshold":2202021,"model":{"type":"model","model":"item/husk_spawn_egg"}}]},"oversized_in_gui":true}

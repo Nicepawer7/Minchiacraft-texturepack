@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:ingredient/gn_celery","predicate":{"custom_model_data":2203048}},{"model":"item/sugar_cane","predicate":{"custom_model_data":2203049}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/sugar_cane"}}

@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/golden_pickaxe"},"entries":[{"threshold":2200244,"model":{"type":"model","model":"slimefun:slimefun/basic_machines/industrial_miner"}},{"threshold":2200245,"model":{"type":"model","model":"item/golden_pickaxe"}}]},"oversized_in_gui":true}

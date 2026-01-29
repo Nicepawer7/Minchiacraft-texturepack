@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/warped_nylium"},"entries":[{"threshold":2305152,"model":{"type":"model","model":"minecraft:block/warped_nylium"}},{"threshold":2305153,"model":{"type":"model","model":"item/warped_nylium"}}]},"oversized_in_gui":true}

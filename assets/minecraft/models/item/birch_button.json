@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:food/gn_tofu","predicate":{"custom_model_data":2203142}},{"model":"item/birch_button","predicate":{"custom_model_data":2203143}}],"parent":"minecraft:block/birch_button_inventory"}

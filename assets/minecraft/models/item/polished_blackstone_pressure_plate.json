@@ -1,0 +1,1 @@
+{"overrides":[{"model":"fluffymachines:misc/alternate_elevator_plate","predicate":{"custom_model_data":2201324}},{"model":"item/polished_blackstone_pressure_plate","predicate":{"custom_model_data":2201325}}],"parent":"minecraft:block/polished_blackstone_pressure_plate"}

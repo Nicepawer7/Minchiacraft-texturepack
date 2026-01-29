@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefun:slimefun/food/pork_jerky","predicate":{"custom_model_data":2200020}},{"model":"gastronomicon:ingredient/gn_cooked_squid","predicate":{"custom_model_data":2203104}},{"model":"item/cooked_porkchop","predicate":{"custom_model_data":2203105}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/cooked_porkchop"}}

@@ -1,0 +1,1 @@
+{"overrides":[{"model":"cultivation:products/clt_dill","predicate":{"custom_model_data":2300039}},{"model":"item/short_grass","predicate":{"custom_model_data":2300040}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/short_grass"}}

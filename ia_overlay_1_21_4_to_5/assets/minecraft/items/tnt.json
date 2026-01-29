@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/tnt"},"entries":[{"threshold":2202058,"model":{"type":"model","model":"slimefunwarfare:explosives/nuclear_bomb"}},{"threshold":2202059,"model":{"type":"model","model":"item/tnt"}}]},"oversized_in_gui":true}

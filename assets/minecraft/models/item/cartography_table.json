@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimetinker:workstations/tinkers_repair_bench","predicate":{"custom_model_data":2301173}},{"model":"item/cartography_table","predicate":{"custom_model_data":2301174}}],"parent":"minecraft:block/cartography_table"}

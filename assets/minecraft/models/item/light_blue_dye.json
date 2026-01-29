@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefunwarfare:resources/segganesson","predicate":{"custom_model_data":2202063}},{"model":"slimefunwarfare:resources/unpatentablium","predicate":{"custom_model_data":2202080}},{"model":"item/light_blue_dye","predicate":{"custom_model_data":2202081}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/light_blue_dye"}}

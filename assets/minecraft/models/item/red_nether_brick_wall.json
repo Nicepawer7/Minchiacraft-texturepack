@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimetinker:materials/seared_tank","predicate":{"custom_model_data":2301004}},{"model":"item/red_nether_brick_wall","predicate":{"custom_model_data":2301005}}],"parent":"minecraft:block/red_nether_brick_wall_inventory"}

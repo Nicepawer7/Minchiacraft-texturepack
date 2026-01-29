@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefunwarfare:resources/osmium_meteor","predicate":{"custom_model_data":2202059}},{"model":"item/iron_ore","predicate":{"custom_model_data":2202060}}],"parent":"minecraft:block/iron_ore"}

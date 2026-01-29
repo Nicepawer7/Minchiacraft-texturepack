@@ -1,0 +1,1 @@
+{"overrides":[{"model":"cultivation:products/clt_chives","predicate":{"custom_model_data":2300034}},{"model":"item/seagrass","predicate":{"custom_model_data":2300035}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/seagrass"}}

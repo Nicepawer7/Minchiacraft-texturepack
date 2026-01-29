@@ -1,0 +1,1 @@
+{"overrides":[{"model":"cultivation:products/clt_juniper_berry","predicate":{"custom_model_data":2300044}},{"model":"item/glow_berries","predicate":{"custom_model_data":2300045}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/glow_berries"}}

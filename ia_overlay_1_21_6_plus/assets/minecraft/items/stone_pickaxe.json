@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/stone_pickaxe"},"entries":[{"threshold":2301140,"model":{"type":"model","model":"slimetinker:tool_building_guide/tool_pickaxe_dummy"}},{"threshold":2301141,"model":{"type":"model","model":"item/stone_pickaxe"}}]},"oversized_in_gui":true}

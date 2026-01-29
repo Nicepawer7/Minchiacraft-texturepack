@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/cake"},"entries":[{"threshold":2200315,"model":{"type":"model","model":"slimefun:slimefun/birthday/birthday_cake"}},{"threshold":2200316,"model":{"type":"model","model":"item/cake"}}]},"oversized_in_gui":true}

@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/charcoal"},"entries":[{"threshold":2202002,"model":{"type":"model","model":"slimefunwarfare:resources/boron"}},{"threshold":2202003,"model":{"type":"model","model":"item/charcoal"}}]},"oversized_in_gui":true}

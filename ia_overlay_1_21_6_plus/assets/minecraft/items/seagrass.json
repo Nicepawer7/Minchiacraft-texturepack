@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/seagrass"},"entries":[{"threshold":2300034,"model":{"type":"model","model":"cultivation:products/clt_chives"}},{"threshold":2300035,"model":{"type":"model","model":"item/seagrass"}}]},"oversized_in_gui":true}

@@ -1,0 +1,1 @@
+{"overrides":[{"model":"infinityexpansion:materials/magsteel_plate","predicate":{"custom_model_data":2200613}},{"model":"infinityexpansion2:materials/magsteel_plate","predicate":{"custom_model_data":2305076}},{"model":"item/netherite_scrap","predicate":{"custom_model_data":2305077}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/netherite_scrap"}}

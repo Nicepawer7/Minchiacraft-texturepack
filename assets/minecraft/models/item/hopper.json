@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefun:slimefun/magical_gadgets/infused_hopper","predicate":{"custom_model_data":2200465}},{"model":"item/hopper","predicate":{"custom_model_data":2200466}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/hopper"}}

@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:block/lime_concrete","predicate":{"custom_model_data":2305182}},{"model":"item/lime_concrete","predicate":{"custom_model_data":2305183}}],"parent":"minecraft:block/lime_concrete"}

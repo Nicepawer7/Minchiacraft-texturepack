@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefun:slimefun/energy/food_fabricator","predicate":{"custom_model_data":2200471}},{"model":"slimefun:slimefun/energy/food_fabricator_2","predicate":{"custom_model_data":2200472}},{"model":"item/green_stained_glass","predicate":{"custom_model_data":2200473}}],"parent":"minecraft:block/green_stained_glass"}

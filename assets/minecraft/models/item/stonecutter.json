@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefun:slimefun/basic_machines/table_saw","predicate":{"custom_model_data":2200232}},{"model":"item/stonecutter","predicate":{"custom_model_data":2200233}}],"parent":"minecraft:block/stonecutter"}

@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:ingredient/gn_turnip","predicate":{"custom_model_data":2203044}},{"model":"cultivation:products/clt_sweet_potato","predicate":{"custom_model_data":2300088}},{"model":"item/beetroot","predicate":{"custom_model_data":2300089}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/beetroot"}}

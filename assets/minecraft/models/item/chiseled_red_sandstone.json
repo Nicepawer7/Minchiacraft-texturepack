@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:block/chiseled_red_sandstone","predicate":{"custom_model_data":2305187}},{"model":"item/chiseled_red_sandstone","predicate":{"custom_model_data":2305188}}],"parent":"minecraft:block/chiseled_red_sandstone"}

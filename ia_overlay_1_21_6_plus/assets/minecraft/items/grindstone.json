@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/grindstone"},"entries":[{"threshold":2301175,"model":{"type":"model","model":"slimetinker:workstations/tinkers_mod_station"}},{"threshold":2301176,"model":{"type":"model","model":"item/grindstone"}}]},"oversized_in_gui":true}

@@ -1,0 +1,1 @@
+{"overrides":[{"model":"supreme:components/supreme_center_card_simple","predicate":{"custom_model_data":2201576}},{"model":"item/music_disc_11","predicate":{"custom_model_data":2201577}}],"parent":"minecraft:item/template_music_disc","textures":{"layer0":"minecraft:item/music_disc_11"}}

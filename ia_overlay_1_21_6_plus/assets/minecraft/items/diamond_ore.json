@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/diamond_ore"},"entries":[{"threshold":2202060,"model":{"type":"model","model":"slimefunwarfare:resources/segganesson_meteor"}},{"threshold":2202061,"model":{"type":"model","model":"item/diamond_ore"}}]},"oversized_in_gui":true}

@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/chiseled_nether_bricks"},"entries":[{"threshold":2305188,"model":{"type":"model","model":"minecraft:block/chiseled_nether_bricks"}},{"threshold":2305189,"model":{"type":"model","model":"item/chiseled_nether_bricks"}}]},"oversized_in_gui":true}

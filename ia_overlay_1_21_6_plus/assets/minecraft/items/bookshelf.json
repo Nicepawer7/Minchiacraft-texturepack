@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/bookshelf"},"entries":[{"threshold":2200562,"model":{"type":"model","model":"slimefun:slimefun/energy/book_binder"}},{"threshold":2200563,"model":{"type":"model","model":"item/bookshelf"}}]},"oversized_in_gui":true}

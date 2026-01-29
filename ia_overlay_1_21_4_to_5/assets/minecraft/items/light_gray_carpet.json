@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/light_gray_carpet"},"entries":[{"threshold":2203007,"model":{"type":"model","model":"gastronomicon:tools/gn_baking_tray"}},{"threshold":2203008,"model":{"type":"model","model":"item/light_gray_carpet"}}]},"oversized_in_gui":true}

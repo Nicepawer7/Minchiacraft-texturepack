@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/orange_dye"},"entries":[{"threshold":2202065,"model":{"type":"model","model":"slimefunwarfare:resources/monazite"}},{"threshold":2202066,"model":{"type":"model","model":"item/orange_dye"}}]},"oversized_in_gui":true}

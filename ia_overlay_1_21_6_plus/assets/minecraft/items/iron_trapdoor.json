@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/iron_trapdoor_bottom"},"entries":[{"threshold":2203014,"model":{"type":"model","model":"gastronomicon:tools/gn_hunting_trap"}},{"threshold":2203015,"model":{"type":"model","model":"item/iron_trapdoor"}}]},"oversized_in_gui":true}

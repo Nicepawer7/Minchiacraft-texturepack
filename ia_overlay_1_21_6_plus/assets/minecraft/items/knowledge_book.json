@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/knowledge_book"},"entries":[{"threshold":2305001,"model":{"type":"model","model":"minecraft:item/knowledge_book"}},{"threshold":2305002,"model":{"type":"model","model":"item/knowledge_book"}}]},"oversized_in_gui":true}

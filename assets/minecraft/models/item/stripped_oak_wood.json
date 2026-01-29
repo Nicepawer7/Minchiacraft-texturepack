@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:block/stripped_oak_wood","predicate":{"custom_model_data":2305154}},{"model":"item/stripped_oak_wood","predicate":{"custom_model_data":2305155}}],"parent":"minecraft:block/stripped_oak_wood"}

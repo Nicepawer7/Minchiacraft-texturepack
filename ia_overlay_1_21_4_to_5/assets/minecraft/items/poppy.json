@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/poppy"},"entries":[{"threshold":2300035,"model":{"type":"model","model":"cultivation:products/clt_clove"}},{"threshold":2300036,"model":{"type":"model","model":"item/poppy"}}]},"oversized_in_gui":true}

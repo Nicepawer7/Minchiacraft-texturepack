@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/honey_bottle"},"entries":[{"threshold":2203136,"model":{"type":"model","model":"gastronomicon:food/gn_marmalade"}},{"threshold":2203137,"model":{"type":"model","model":"item/honey_bottle"}}]},"oversized_in_gui":true}

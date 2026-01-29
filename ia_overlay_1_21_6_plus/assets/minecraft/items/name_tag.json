@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/name_tag"},"entries":[{"threshold":2200005,"model":{"type":"model","model":"slimefun:slimefun/gui/_ui_search"}},{"threshold":2200006,"model":{"type":"model","model":"item/name_tag"}}]},"oversized_in_gui":true}

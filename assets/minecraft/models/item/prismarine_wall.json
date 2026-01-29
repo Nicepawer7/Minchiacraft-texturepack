@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:item/prismarine_wall","predicate":{"custom_model_data":2305196}},{"model":"item/prismarine_wall","predicate":{"custom_model_data":2305197}}],"parent":"minecraft:block/prismarine_wall_inventory"}

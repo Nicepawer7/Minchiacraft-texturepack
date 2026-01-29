@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:block/stripped_acacia_wood","predicate":{"custom_model_data":2305155}},{"model":"item/stripped_acacia_wood","predicate":{"custom_model_data":2305156}}],"parent":"minecraft:block/stripped_acacia_wood"}

@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefun:slimefun/christmas/christmas_caramel_apple","predicate":{"custom_model_data":2200326}},{"model":"slimefun:slimefun/christmas/christmas_chocolate_apple","predicate":{"custom_model_data":2200327}},{"model":"item/apple","predicate":{"custom_model_data":2200328}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/apple"}}

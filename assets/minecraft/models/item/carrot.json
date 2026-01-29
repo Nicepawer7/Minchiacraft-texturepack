@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:ingredient/gn_cassava","predicate":{"custom_model_data":2203066}},{"model":"item/carrot","predicate":{"custom_model_data":2203067}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/carrot"}}

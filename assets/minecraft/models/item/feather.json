@@ -1,0 +1,1 @@
+{"display":{"head":{"rotation":[0,0,45],"scale":[1,1,1],"translation":[-1,13,7]}},"overrides":[{"model":"slimefun:slimefun/magical_gadgets/elytra_scale","predicate":{"custom_model_data":2200420}},{"model":"item/feather","predicate":{"custom_model_data":2200421}}],"parent":"item/generated","textures":{"layer0":"item/feather"}}

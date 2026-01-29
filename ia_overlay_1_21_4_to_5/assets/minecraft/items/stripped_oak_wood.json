@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/stripped_oak_wood"},"entries":[{"threshold":2305154,"model":{"type":"model","model":"minecraft:block/stripped_oak_wood"}},{"threshold":2305155,"model":{"type":"model","model":"item/stripped_oak_wood"}}]},"oversized_in_gui":true}

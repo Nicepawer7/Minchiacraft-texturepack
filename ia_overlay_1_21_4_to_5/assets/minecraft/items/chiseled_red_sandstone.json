@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/chiseled_red_sandstone"},"entries":[{"threshold":2305187,"model":{"type":"model","model":"minecraft:block/chiseled_red_sandstone"}},{"threshold":2305188,"model":{"type":"model","model":"item/chiseled_red_sandstone"}}]},"oversized_in_gui":true}

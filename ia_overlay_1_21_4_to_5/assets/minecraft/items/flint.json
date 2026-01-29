@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/flint"},"entries":[{"threshold":2200130,"model":{"type":"model","model":"slimefun:slimefun/miscellaneous/hook"}},{"threshold":2200131,"model":{"type":"model","model":"item/flint"}}]},"oversized_in_gui":true}

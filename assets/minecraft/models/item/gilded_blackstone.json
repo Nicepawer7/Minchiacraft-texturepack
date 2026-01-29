@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:block/gilded_blackstone","predicate":{"custom_model_data":2305207}},{"model":"item/gilded_blackstone","predicate":{"custom_model_data":2305208}}],"parent":"minecraft:block/gilded_blackstone"}

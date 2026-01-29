@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefun:slimefun/magical_gadgets/rainbow_wool","predicate":{"custom_model_data":2200425}},{"model":"slimefun:slimefun/christmas/rainbow_wool_xmas","predicate":{"custom_model_data":2200431}},{"model":"item/white_wool","predicate":{"custom_model_data":2200432}}],"parent":"minecraft:block/white_wool"}

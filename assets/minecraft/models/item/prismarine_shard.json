@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:ingredient/gn_guardian_fin","predicate":{"custom_model_data":2203102}},{"model":"item/prismarine_shard","predicate":{"custom_model_data":2203103}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/prismarine_shard"}}

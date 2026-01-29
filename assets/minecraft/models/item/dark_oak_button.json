@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:ingredient/gn_avocado_pit","predicate":{"custom_model_data":2203078}},{"model":"item/dark_oak_button","predicate":{"custom_model_data":2203079}}],"parent":"minecraft:block/dark_oak_button_inventory"}

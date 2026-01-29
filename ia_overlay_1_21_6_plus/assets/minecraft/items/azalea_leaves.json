@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/azalea_leaves"},"entries":[{"threshold":2300077,"model":{"type":"model","model":"cultivation:products/clt_nettles"}},{"threshold":2300078,"model":{"type":"model","model":"item/azalea_leaves"}}]},"oversized_in_gui":true}

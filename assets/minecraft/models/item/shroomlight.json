@@ -1,0 +1,1 @@
+{"overrides":[{"model":"supreme:machines/supreme_multiblock_core","predicate":{"custom_model_data":2201818}},{"model":"minecraft:block/shroomlight","predicate":{"custom_model_data":2305199}},{"model":"item/shroomlight","predicate":{"custom_model_data":2305200}}],"parent":"minecraft:block/shroomlight"}

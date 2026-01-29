@@ -1,0 +1,1 @@
+{"overrides":[{"model":"infinityexpansion:singularities/coal_singularity","predicate":{"custom_model_data":2200621}},{"model":"infinityexpansion2:singularities/coal_singularity","predicate":{"custom_model_data":2305100}},{"model":"item/coal_block","predicate":{"custom_model_data":2305101}}],"parent":"minecraft:block/coal_block"}

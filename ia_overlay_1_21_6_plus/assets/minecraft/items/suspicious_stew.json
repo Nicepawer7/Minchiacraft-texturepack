@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/suspicious_stew"},"entries":[{"threshold":2305119,"model":{"type":"model","model":"infinityexpansion2:food/ultimate_stew"}},{"threshold":2305120,"model":{"type":"model","model":"item/suspicious_stew"}}]},"oversized_in_gui":true}

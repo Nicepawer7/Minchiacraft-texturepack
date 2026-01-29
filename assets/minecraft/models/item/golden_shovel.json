@@ -1,0 +1,1 @@
+{"overrides":[{"model":"bump:tools/getgold_spade","predicate":{"custom_model_data":2201419}},{"model":"item/golden_shovel","predicate":{"custom_model_data":2201420}}],"parent":"minecraft:item/handheld","textures":{"layer0":"minecraft:item/golden_shovel"}}

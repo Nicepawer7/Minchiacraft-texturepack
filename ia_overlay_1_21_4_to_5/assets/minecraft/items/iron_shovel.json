@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/iron_shovel"},"entries":[{"threshold":2203006,"model":{"type":"model","model":"gastronomicon:tools/gn_whisk"}},{"threshold":2203007,"model":{"type":"model","model":"item/iron_shovel"}}]},"oversized_in_gui":true}

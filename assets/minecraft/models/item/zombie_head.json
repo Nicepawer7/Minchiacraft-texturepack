@@ -1,0 +1,1 @@
+{"overrides":[{"model":"bump:magical_items/update_power","predicate":{"custom_model_data":2201418}},{"model":"item/zombie_head","predicate":{"custom_model_data":2201419}}],"parent":"minecraft:item/template_skull"}

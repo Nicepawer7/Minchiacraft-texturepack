@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/golden_carrot"},"entries":[{"threshold":2200910,"model":{"type":"model","model":"exotic_garden:foods/corn_on_the_cob"}},{"threshold":2200911,"model":{"type":"model","model":"item/golden_carrot"}}]},"oversized_in_gui":true}

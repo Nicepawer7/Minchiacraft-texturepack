@@ -1,0 +1,1 @@
+{"overrides":[{"model":"cultivation:products/clt_green_beans","predicate":{"custom_model_data":2300072}},{"model":"item/frogspawn","predicate":{"custom_model_data":2300073}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/frogspawn"}}

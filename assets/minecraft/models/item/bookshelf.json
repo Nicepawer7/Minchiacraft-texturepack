@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefun:slimefun/energy/book_binder","predicate":{"custom_model_data":2200562}},{"model":"item/bookshelf","predicate":{"custom_model_data":2200563}}],"parent":"minecraft:block/bookshelf"}

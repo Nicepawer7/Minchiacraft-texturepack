@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:item/yellow_stained_glass_pane","predicate":{"custom_model_data":230524}},{"model":"item/yellow_stained_glass_pane","predicate":{"custom_model_data":230525}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/yellow_stained_glass"}}

@@ -1,0 +1,1 @@
+{"overrides":[{"model":"infinityexpansion:materials/compressed_cobblestone_5","predicate":{"custom_model_data":2200636}},{"model":"item/polished_andesite","predicate":{"custom_model_data":2200637}}],"parent":"minecraft:block/polished_andesite"}

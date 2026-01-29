@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/light_blue_concrete"},"entries":[{"threshold":2305173,"model":{"type":"model","model":"minecraft:block/light_blue_concrete"}},{"threshold":2305174,"model":{"type":"model","model":"item/light_blue_concrete"}}]},"oversized_in_gui":true}

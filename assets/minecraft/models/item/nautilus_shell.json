@@ -1,0 +1,1 @@
+{"overrides":[{"model":"gastronomicon:ingredient/gn_clam","predicate":{"custom_model_data":2203098}},{"model":"item/nautilus_shell","predicate":{"custom_model_data":2203099}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/nautilus_shell"}}

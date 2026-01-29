@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/gravel"},"entries":[{"threshold":2301001,"model":{"type":"model","model":"slimetinker:materials/grout"}},{"threshold":2301002,"model":{"type":"model","model":"item/gravel"}}]},"oversized_in_gui":true}

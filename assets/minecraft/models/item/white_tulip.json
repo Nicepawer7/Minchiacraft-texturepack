@@ -1,0 +1,1 @@
+{"overrides":[{"model":"cultivation:products/clt_jasmine","predicate":{"custom_model_data":2300043}},{"model":"item/white_tulip","predicate":{"custom_model_data":2300044}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:block/white_tulip"}}

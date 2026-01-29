@@ -1,0 +1,1 @@
+{"overrides":[{"model":"infinityexpansion:singularities/infinity_singularity","predicate":{"custom_model_data":2200627}},{"model":"infinityexpansion2:singularities/infinity_singularity","predicate":{"custom_model_data":2305105}},{"model":"item/smooth_quartz","predicate":{"custom_model_data":2305106}}],"parent":"minecraft:block/smooth_quartz"}

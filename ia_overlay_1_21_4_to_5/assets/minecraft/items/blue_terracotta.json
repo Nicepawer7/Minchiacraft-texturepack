@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/blue_terracotta"},"entries":[{"threshold":2200518,"model":{"type":"model","model":"slimefun:slimefun/energy/fluid_pump"}},{"threshold":2200519,"model":{"type":"model","model":"item/blue_terracotta"}}]},"oversized_in_gui":true}

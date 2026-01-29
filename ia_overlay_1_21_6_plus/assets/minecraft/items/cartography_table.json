@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/cartography_table"},"entries":[{"threshold":2301173,"model":{"type":"model","model":"slimetinker:workstations/tinkers_repair_bench"}},{"threshold":2301174,"model":{"type":"model","model":"item/cartography_table"}}]},"oversized_in_gui":true}

@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/birch_sapling"},"entries":[{"threshold":2203075,"model":{"type":"model","model":"gastronomicon:ingredient/gn_cauliflower"}},{"threshold":2203076,"model":{"type":"model","model":"item/birch_sapling"}}]},"oversized_in_gui":true}

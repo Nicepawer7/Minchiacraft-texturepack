@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:block/honeycomb_block","predicate":{"custom_model_data":2305112}},{"model":"item/honeycomb_block","predicate":{"custom_model_data":2305113}}],"parent":"minecraft:block/honeycomb_block"}

@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/stonecutter"},"entries":[{"threshold":2200232,"model":{"type":"model","model":"slimefun:slimefun/basic_machines/table_saw"}},{"threshold":2200233,"model":{"type":"model","model":"item/stonecutter"}}]},"oversized_in_gui":true}

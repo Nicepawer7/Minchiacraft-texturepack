@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/oak_trapdoor_bottom"},"entries":[{"threshold":2203015,"model":{"type":"model","model":"gastronomicon:tools/gn_crab_trap"}},{"threshold":2203016,"model":{"type":"model","model":"item/oak_trapdoor"}}]},"oversized_in_gui":true}

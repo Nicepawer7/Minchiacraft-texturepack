@@ -1,0 +1,1 @@
+{"overrides":[{"model":"minecraft:block/crimson_nylium","predicate":{"custom_model_data":2305151}},{"model":"item/crimson_nylium","predicate":{"custom_model_data":2305152}}],"parent":"minecraft:block/crimson_nylium"}

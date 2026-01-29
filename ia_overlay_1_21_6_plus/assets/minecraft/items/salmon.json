@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:item/salmon"},"entries":[{"threshold":2203107,"model":{"type":"model","model":"gastronomicon:ingredient/gn_raw_eel"}},{"threshold":2203108,"model":{"type":"model","model":"item/salmon"}}]},"oversized_in_gui":true}

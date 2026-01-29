@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefun:slimefun/magical_gadgets/magic_eye_of_ender","predicate":{"custom_model_data":2200041}},{"model":"item/ender_eye","predicate":{"custom_model_data":2200042}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/ender_eye"}}

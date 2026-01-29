@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/chiseled_quartz_block"},"entries":[{"threshold":2305170,"model":{"type":"model","model":"minecraft:block/chiseled_quartz_block"}},{"threshold":2305171,"model":{"type":"model","model":"item/chiseled_quartz_block"}}]},"oversized_in_gui":true}

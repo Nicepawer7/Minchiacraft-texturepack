@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/gilded_blackstone"},"entries":[{"threshold":2305207,"model":{"type":"model","model":"minecraft:block/gilded_blackstone"}},{"threshold":2305208,"model":{"type":"model","model":"item/gilded_blackstone"}}]},"oversized_in_gui":true}

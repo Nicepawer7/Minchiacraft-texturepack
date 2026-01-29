@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefun:slimefun/basic_machines/ignition_chamber","predicate":{"custom_model_data":2200058}},{"model":"item/dropper","predicate":{"custom_model_data":2200059}}],"parent":"minecraft:block/dropper"}

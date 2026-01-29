@@ -1,0 +1,1 @@
+{"overrides":[{"model":"slimefun:slimefun/food/mutton_jerky","predicate":{"custom_model_data":2200022}},{"model":"gastronomicon:ingredient/gn_cooked_chevon","predicate":{"custom_model_data":2203100}},{"model":"item/cooked_mutton","predicate":{"custom_model_data":2203101}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/cooked_mutton"}}

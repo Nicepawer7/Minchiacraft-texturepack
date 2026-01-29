@@ -1,0 +1,1 @@
+{"overrides":[{"model":"cultivation:products/clt_oregano","predicate":{"custom_model_data":2300051}},{"model":"item/spruce_leaves","predicate":{"custom_model_data":2300052}}],"parent":"minecraft:block/spruce_leaves"}

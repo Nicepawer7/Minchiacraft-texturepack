@@ -1,0 +1,1 @@
+{"overrides":[{"model":"bump:magical_items/old_cpu","predicate":{"custom_model_data":2201412}},{"model":"gastronomicon:food/gn_tapioca_pearls","predicate":{"custom_model_data":2203147}},{"model":"item/prismarine_crystals","predicate":{"custom_model_data":2203148}}],"parent":"minecraft:item/generated","textures":{"layer0":"minecraft:item/prismarine_crystals"}}

@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/slime_block"},"entries":[{"threshold":2305004,"model":{"type":"model","model":"minecraft:block/slime_block"}},{"threshold":2305005,"model":{"type":"model","model":"item/slime_block"}}]},"oversized_in_gui":true}

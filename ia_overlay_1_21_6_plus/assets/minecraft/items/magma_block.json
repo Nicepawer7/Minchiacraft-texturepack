@@ -1,0 +1,1 @@
+{"model":{"type":"range_dispatch","property":"custom_model_data","index":0,"fallback":{"type":"minecraft:model","model":"minecraft:block/magma_block"},"entries":[{"threshold":2305198,"model":{"type":"model","model":"minecraft:block/magma_block"}},{"threshold":2305199,"model":{"type":"model","model":"item/magma_block"}}]},"oversized_in_gui":true}
